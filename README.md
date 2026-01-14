@@ -1,7 +1,7 @@
 # 🏙️ City Simulation (CustomTkinter)
 
 A **city simulation dashboard** built with **Python and CustomTkinter**, where population, resources, and random events evolve over time.  
-The simulation runs in real-time with adjustable speed, visual resource indicators, and an event log that explains *why* the city changes.
+The simulation runs in real-time with adjustable speed, visual resource indicators, and an event log that explains *why* the city changes.(I WILL ADD MORE FEATURES I THE FUTURE, CURRENTLY W.I.P)
 
 This project focuses on **state management, simulation loops, and UI synchronization** rather than complex graphics.
 
